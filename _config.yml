@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: ngboardway.github.io
+description: Personal & Academic Portfolio
+github:
+  is_project_page: false
